@@ -1,0 +1,31 @@
+h1{
+    background: green;
+    color: white;
+    width: 50px;
+    display: inline;
+
+}
+
+a{
+    background: rgb(1, 48, 33);
+    color: white;
+    display: block; /*將行內元素變成區塊元素*/
+    height: 50px;
+    width: 50px;
+}
+
+span{
+    color: red;
+    font-size: 40px;
+}
+
+.btn{
+    color: white;
+    background: blue;
+    display: block; 
+    height: 30px;
+    width: 60px;
+    
+
+
+}

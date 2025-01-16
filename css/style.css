@@ -1,0 +1,64 @@
+.style_1 h1 {
+    text-align: center;
+    color: rgb(21, 115, 216);
+    font-size: 50px;
+    font-family: 'Segoe UI';
+    border-bottom: 5px  solid blue; /*創造底線*/
+
+}
+
+.style_1{
+    margin-left: 70px;
+    margin-right: 70px;
+    padding-left: 70px;
+    padding-right: 70px;
+    border-bottom: 10px solid blue;
+    border-left: 10px solid blue;
+    border-right: 10px solid blue;
+    border-top:10px solid blue ;
+    
+}
+
+.style_1 h1:hover{
+    color: red;  /*鼠標懸浮在上的時候轉為紅色*/
+}
+
+.style_1 ul ol  {
+    color:black;
+    font-size: 16px;
+    
+}
+
+
+.style_1 p {
+    color:black;
+    font-size: 30px;
+    font-family: Verdana ;
+    line-height: 1.5;
+    text-align: left;
+    text-decoration: underline;
+}
+
+.style_1 .black_background{
+    color:white;
+    background : black;
+    height: 60px;
+    width: 140px;
+}
+
+
+.style_1 li{
+    color: blue;
+}
+
+.style_1 a {
+    color:blue;
+    font-size: 16px;
+}
+a:hover {
+    color: rgb(255, 247, 156);
+    font-size: 30px;
+}
+a:active{
+    color: blue;
+}
