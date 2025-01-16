@@ -7,7 +7,7 @@
 
 }
 
-.style_1{
+/* .style_1{
     margin-left: 70px;
     margin-right: 70px;
     padding-left: 70px;
@@ -17,7 +17,7 @@
     border-right: 10px solid blue;
     border-top:10px solid blue ;
     
-}
+} */
 
 .style_1 h1:hover{
     color: red;  /*鼠標懸浮在上的時候轉為紅色*/
